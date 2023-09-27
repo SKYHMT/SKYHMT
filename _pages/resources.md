@@ -17,6 +17,7 @@ table {
 </style>
 
 <table>
+
 <tr>
     <td>
      AI-driven Vaccine Communicator——Auricle    
@@ -24,7 +25,7 @@ table {
     <td>
     Spinal Cord Injury Exercises 
     </td>
-    </tr>
+</tr>
 
 <tr>
     <td style="padding-right:10px;">
@@ -36,9 +37,8 @@ table {
 </tr>
 
 <tr>
-  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot1.png"  alt="1" width="45%"></td>
+  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot1.png"  alt="1" width="95%"></td>
   <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot2.png" alt="2" width="95%"></td>
-    </td>
 </tr>
 </table>
 
