@@ -9,6 +9,7 @@ permalink: /resources/
 # Research Resource
 
 ## Research Videos
+
 <style scoped>
 table {
   font-size: 25px;
@@ -27,12 +28,18 @@ table {
 
 <tr>
     <td style="padding-right:10px;">
-<iframe width="500px" height="300px" src="https://www.youtube.com/embed/BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="500px" height="300px" src="https://www.youtube.com/embed/BLwYI15MzEE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
     <td style="padding-right:10px;">
-<iframe width="500px" height="300px" src="https://www.youtube.com/embed/zxGHR84AUjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="500px" height="300px" src="https://www.youtube.com/embed/zxGHR84AUjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
-    </tr>
+</tr>
+
+<tr>
+  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot1.png"  alt="1" width="45%"></td>
+  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot2.png" alt="2" width="95%"></td>
+    </td>
+</tr>
 </table>
 
 ### AI-driven Vaccine Communicator——Auricle
