@@ -52,8 +52,9 @@ table {
     </tr>
 
 <tr>
-    <td>< img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot1.png"  alt="1" width="95%"></td>
-    <td>< img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot2.png" alt="2" width="95%"></td>
+ <tr>
+  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot1.png"  alt="1" width="95%"></td>
+  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot2.png" alt="2" width="95%"></td>
 </tr>
 </table>
 
