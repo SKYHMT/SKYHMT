@@ -55,6 +55,20 @@ table {
 <td> < img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot1.png"  alt="1" width="95%"></td>
   <td>< img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot2.png" alt="2" width="95%"></td>
     </tr>
+
+<tr>
+    <td>
+    AI-driven Vaccine Communicator——Auricle    
+    </td>
+    <td>
+    Spinal Cord Injury Exercises 
+    </td>
+    </tr>
+
+<tr>
+<td> < img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot1.png"  alt="1" width="95%"></td>
+  <td>< img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot2.png" alt="2" width="95%"></td>
+    </tr>
 </table>
 
 ### AI-driven Vaccine Communicator——Auricle
