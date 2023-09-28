@@ -9,6 +9,7 @@ permalink: /research/
 # Research Fund
 
 ## Research/Academic Grants As Principal Investigator
+### Selected Representative Funding
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
