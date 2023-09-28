@@ -35,15 +35,27 @@ table {
         <iframe width="500px" height="300px" src="https://www.youtube.com/embed/zxGHR84AUjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
 </tr>
+</table>
+
+## Research Posters
+<style scoped>
+table {
+  font-size: 25px;
+}
+</style>
+
+<table>
 <tr>
     <td>
-        智能疫苗助理的成果研究
-    </td>  
-</tr>
+     智能疫苗助理的成效研究    
+    </td>
+    </tr>
+
 <tr>
-  <td> <img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot1.png"  alt="1" width="95%"></td>
-  <td><img src="{{ site.url }}{{ site.baseurl }}/images/poster/AI_chatbot2.png" alt="2" width="95%"></td>
-</tr>
+  <td> <img src="AI_chatbot1.png"  alt="1" width = 500px height = 640px ></td>
+  <td><img src="AI_chatbot2.png" alt="2" width = 500px height = 640px></td>
+    </td>
+    </tr>
 </table>
 
 ### AI-driven Vaccine Communicator——Auricle
