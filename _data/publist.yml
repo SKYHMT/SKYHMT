@@ -9,18 +9,27 @@
 
 - title: AI-driven Vaccine Communicator - 智能疫苗助理 
   image: aiicon1.png
-  description: Health and Medical Research Fund, Food and Health Bureau, Commissioned Research on COVID-19 (2021-2025)
+  description: Health and Medical Research Fund (2021-2025)
   authors: Co-Investigator
   link:
     url: https://www.youtube.com/embed/BLwYI15MzEE
     display:  AI-driven Vaccine Communicator
   highlight: 1
 
-- title: Effects of a Physical-Psychological Integrative (PPI) intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (A Pilot Randomized Controlled Trial)
-  image: covid_AI_icon.png
-  description: Grant source - Health and Medical Research Fund—Research Fellowship Scheme
+- title: Effects of a PPI intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling SCI Survivors
+  image: PPI.jpg
+  description: Health and Medical Research Fund—Research Fellowship Scheme (2021-2023)
   authors: Principal Investigator
   link:
     url: https://polyuit-my.sharepoint.com/:i:/g/personal/menghe_polyu_edu_hk/EXpAAEUvwxBMoJciKex-jYYBGVurNBmSnuHnRzBDTX4OyQ?e=tykaUt
     display:  PPI intervention
+  highlight: 1
+
+- title: Effects of caregiver-administrated acupressure intervention for community-dwelling SCI survivors with constipation
+  image: covid_AI_icon.png
+  description: Hong Kong Government Chinese Medicine Development Fund (2022-2024)
+  authors: Principal Investigator
+  link:
+    url: https://polyuit-my.sharepoint.com/:i:/g/personal/menghe_polyu_edu_hk/EXpAAEUvwxBMoJciKex-jYYBGVurNBmSnuHnRzBDTX4OyQ?e=tykaUt
+    display:  Caregiver-Administrated Acupressure
   highlight: 1
