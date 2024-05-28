@@ -77,7 +77,8 @@ Our **mission**:
     <tr>
         <td><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" alt="Fitness Tracker"></td>
         <td>
-            <p class="title">Research Project Sample:</p>
+            <p class="title"><strong>Spinal Cord Injury Rehabilitation</strong></p>
+            <p>Research Project Sample:</p>
             <p>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
             <p class="doi">Publication output DOI: <a href="https://doi.org/10.1371/journal.pone.0282846">10.1371/journal.pone.0282846</a></p>
         </td>
@@ -85,7 +86,8 @@ Our **mission**:
       <tr>
         <td><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_2.png" alt="Fitness Tracker"></td>
         <td>
-            <p class="title">Research Project Sample:</p>
+            <p class="title"><strong>Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation)</strong></p>
+            <p>Research Project Sample:</p>            
             <p>Li, Y., Chien, W. T., & Bressington, D. (2020). Effects of a coping-oriented supportive programme for people with spinal cord injury during inpatient rehabilitation: a quasi-experimental study. Spinal Cord, 58(1), 58-69.
             </p>
             <p class="doi">Publication output DOI: <a href="https://doi.org/10.1038/s41393-019-0320-2">10.1038/s41393-019-0320-2</a></p>
