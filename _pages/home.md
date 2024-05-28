@@ -72,7 +72,7 @@ Our **mission**:
 <div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>Spinal Cord Injury Rehabilitation</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" class="img-responsive" width="20%" style="float: left" />
   <p>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
   <p><strong><a href="https://doi.org/10.1371/journal.pone.0282846">Publication DOI: 10.1371/journal.pone.0282846 </a></strong></p>
  </div>
@@ -81,7 +81,7 @@ Our **mission**:
 <div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation)</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_2.png" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_2.png" class="img-responsive" width="20%" style="float: left" />
   <p>Li, Y., Chien, W. T., & Bressington, D. (2020). Effects of a coping-oriented supportive programme for people with spinal cord injury during inpatient rehabilitation: a quasi-experimental study. Spinal Cord, 58(1), 58-69.</p>
   <p><strong><a href="https://doi.org/10.1038/s41393-019-0320-2">Publication DOI: 10.1038/s41393-019-0320-2 </a></strong></p>
  </div>
@@ -90,7 +90,7 @@ Our **mission**:
 <div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_3.png" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_3.png" class="img-responsive" width="20%" style="float: left" />
   <p>AI-driven Vaccine Communicator——智能疫苗助理(2021-2025)</p>
   <p><strong><a href="https://www.public.polyu-aivac.com/">Project website</a></strong></p>
  </div>
