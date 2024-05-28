@@ -69,14 +69,10 @@ Our **mission**:
 </div>
 
 ## Research Fields
-1. Spinal Cord Injury Rehabilitation;
-2. Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation);
-3. Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions.
-
 <table cellpadding="10" >
     <tr>
-        <td><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" alt="Fitness Tracker"></td>
-        <td>
+        <td width="20%"><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" alt="Fitness Tracker"  width="180" style="border-style: none"></td>
+        <td width="80%">
             <p class="title"><strong>Spinal Cord Injury Rehabilitation</strong></p>
             <p>Research Project Sample:</p>
             <p>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
@@ -85,8 +81,8 @@ Our **mission**:
          <p></p>
     </tr>
       <tr>
-        <td><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_2.png" alt="Fitness Tracker"></td>
-        <td>
+        <td width="20%"><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_2.png" alt="Fitness Tracker" width="180" style="border-style: none"></td>
+        <td width="80%">
             <p class="title"><strong>Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation)</strong></p>
             <p>Research Project Sample:</p>            
             <p>Li, Y., Chien, W. T., & Bressington, D. (2020). Effects of a coping-oriented supportive programme for people with spinal cord injury during inpatient rehabilitation: a quasi-experimental study. Spinal Cord, 58(1), 58-69.
@@ -96,8 +92,8 @@ Our **mission**:
         </td>     
     </tr>
       <tr>
-        <td><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_3.png" alt="Fitness Tracker"></td>
-        <td>
+        <td width="20%"><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_3.png" alt="Fitness Tracker" width="180" style="border-style: none"></td>
+        <td width="80%">
             <p class="title"><strong>Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions</strong></p>
             <p>Research Project Sample:</p>            
             <p>AI-driven Vaccine Communicator——智能疫苗助理
