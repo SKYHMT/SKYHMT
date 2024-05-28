@@ -93,6 +93,17 @@ Our **mission**:
             <p class="doi">Publication output DOI: <a href="https://doi.org/10.1038/s41393-019-0320-2">10.1038/s41393-019-0320-2</a></p>
         </td>
     </tr>
+      <tr>
+        <td><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_3.png" alt="Fitness Tracker"></td>
+        <td>
+            <p class="title"><strong>Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions</strong></p>
+            <p>Research Project Sample:</p>            
+            <p>AI-driven Vaccine Communicator——智能疫苗助理
+            (2021-2025)
+            </p>
+            <p class="doi"> Project website: <a href="https://www.public.polyu-aivac.com/">https://www.public.polyu-aivac.com/</a></p>
+        </td>
+    </tr>
 </table>
 <!-- <p align="center" style="width: 50%" >
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R_0d09uua1WeNbXl0qVSMb_mAH2E4jEZK6rk5Y4T40g&cl=ffffff&w=a"></script>
