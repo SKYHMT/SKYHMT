@@ -73,44 +73,24 @@ Our **mission**:
 2. Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation);
 3. Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions.
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-<tbody><tr>
-
-  <td width="20%"><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" alt="PontTuset" width="180" style="border-style: none"></td>
-      <td width="80%" valign="top">
-          <p><a href="https://doi.org/10.1371/journal.pone.0282846">
-          <papertitle>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors(2021-2025)
-          </papertitle></a>
-            <br>
-            <strong>Yan Li</strong>, Arnold Wong, Wai Man Chung, Mengqi Li, Alex Molasiotis, Daniel Bressington,Christina Zong-Hao Ma, Patrick Pui Kin Kor, Wing Fai Yeung
-            <br>
-            <em>Plos one</em>, 2023
-            <br>
-             <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282846">paper</a> 
-      <p align="justify" style="font-size:13px">Publication output DOI: 10.1371/journal.pone.0282846
-      </p>
-          <p></p>
-      </td>
-  </tr>
-          <td width="20%"><img src="./imgs/23_neurips_nvfi.gif" alt="PontTuset" width="180" style="border-style: none"></td>
-          <td width="80%" valign="top">
-              <p><a href="https://arxiv.org/abs/2312.06398">
-              <papertitle>NVFi: Neural Velocity Fields for 3D Physics Learning from Dynamic Videos</papertitle></a>
-                <br>J. Li, Z. Song, <strong>B. Yang</strong>
-                <br>
-                <em>Advances in Neural Information Processing Systems (NeurIPS)</em>, 2023
-                <br>
-                <!--<font color="red"><strong>..</strong></font><br>-->
-                <a href="https://arxiv.org/abs/2312.06398">arXiv</a> /
-                <a href="https://github.com/vLAR-group/NVFi"><font color="red">Code</font></a>
-                <iframe src="https://ghbtns.com/github-btn.html?user=vLAR-group&repo=NVFi&type=star&count=true&size=small"
-                frameborder="0" scrolling="0" width="100px" height="20px"></iframe>
-          <p align="justify" style="font-size:13px">We present a novel framework to simultaneously learn the geometry, appearance, and physical velocity of 3D scenes.</p>
-              <p></p>
-          </td>
-      </tr>
-      </tbody>
-  </table>
+<table>
+    <tr>
+        <td><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" alt="Fitness Tracker"></td>
+        <td>
+            <p class="title">Research Project Sample:</p>
+            <p>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
+            <p class="doi">Publication output DOI: <a href="https://doi.org/10.1371/journal.pone.0282846">10.1371/journal.pone.0282846</a></p>
+        </td>
+    </tr>
+      <tr>
+        <td><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" alt="Fitness Tracker"></td>
+        <td>
+            <p class="title">Research Project Sample:</p>
+            <p>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
+            <p class="doi">Publication output DOI: <a href="https://doi.org/10.1371/journal.pone.0282846">10.1371/journal.pone.0282846</a></p>
+        </td>
+    </tr>
+</table>
 <!-- <p align="center" style="width: 50%" >
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R_0d09uua1WeNbXl0qVSMb_mAH2E4jEZK6rk5Y4T40g&cl=ffffff&w=a"></script>
 </p> -->
