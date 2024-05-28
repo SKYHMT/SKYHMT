@@ -103,7 +103,7 @@ Our **mission**:
     </tr>
 </table>
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_2.png" class="img-responsive" width="33%" style="float: left" />
