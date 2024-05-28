@@ -69,45 +69,29 @@ Our **mission**:
 </div>
 
 ## Research Fields
-<table cellpadding="10" >
-    <tr>
-        <td width="20%"><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" alt="Fitness Tracker"  width="180" style="border-style: none"></td>
-        <td width="80%">
-            <p class="title"><strong>Spinal Cord Injury Rehabilitation</strong></p>
-            <p>Research Project Sample:</p>
-            <p>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
-            <p class="doi">Publication output DOI: <a href="https://doi.org/10.1371/journal.pone.0282846">10.1371/journal.pone.0282846</a></p>
-         <p></p>
-         </td>
-    </tr>
-        <td width="20%"><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_2.png" alt="Fitness Tracker" width="180" style="border-style: none"></td>
-        <td width="80%">
-            <p class="title"><strong>Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation)</strong></p>
-            <p>Research Project Sample:</p>            
-            <p>Li, Y., Chien, W. T., & Bressington, D. (2020). Effects of a coping-oriented supportive programme for people with spinal cord injury during inpatient rehabilitation: a quasi-experimental study. Spinal Cord, 58(1), 58-69.
-            </p>
-            <p class="doi">Publication output DOI: <a href="https://doi.org/10.1038/s41393-019-0320-2">10.1038/s41393-019-0320-2</a></p>
-            <p></p>
-           </td>     
-    </tr>
-        <td width="20%"><img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_3.png" alt="Fitness Tracker" width="180" style="border-style: none"></td>
-        <td width="80%">
-            <p class="title"><strong>Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions</strong></p>
-            <p>Research Project Sample:</p>            
-            <p>AI-driven Vaccine Communicator——智能疫苗助理
-            (2021-2025)
-            </p>
-            <p class="doi"> Project website: <a href="https://www.public.polyu-aivac.com/">https://www.public.polyu-aivac.com/</a></p>
-             <p></p>
-        </td>
-    </tr>
-</table>
+<div class="col-sm-12 clearfix">
+ <div class="well">
+  <pubtit>Spinal Cord Injury Rehabilitation</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_1.png" class="img-responsive" width="33%" style="float: left" />
+  <p>A Physical-Psychological Integrative intervention on Physical inactivity, Depression and Chronic pain for Community-Dwelling Spinal Cord Injury Survivors (2021-2025)</p>
+  <p><strong><a href="https://doi.org/10.1371/journal.pone.0282846">Publication DOI: 10.1371/journal.pone.0282846 </a></strong></p>
+ </div>
+</div>
+
+<div class="col-sm-12 clearfix">
+ <div class="well">
+  <pubtit>Psychosocial interventions (e.g., coping-based, mindfulness-based, Motivational interviewing, psychoeducation)</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_2.png" class="img-responsive" width="33%" style="float: left" />
+  <p>Li, Y., Chien, W. T., & Bressington, D. (2020). Effects of a coping-oriented supportive programme for people with spinal cord injury during inpatient rehabilitation: a quasi-experimental study. Spinal Cord, 58(1), 58-69.</p>
+  <p><strong><a href="https://doi.org/10.1038/s41393-019-0320-2">Publication DOI: 10.1038/s41393-019-0320-2 </a></strong></p>
+ </div>
+</div>
 
 <div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>Mental Health Promotion / Technologies (e.g., AI-based, web-based, chatbot) in healthcare interventions</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_2.png" class="img-responsive" width="33%" style="float: left" />
-  <p>Li, Y., Chien, W. T., & Bressington, D. (2020). Effects of a coping-oriented supportive programme for people with spinal cord injury during inpatient rehabilitation: a quasi-experimental study. Spinal Cord, 58(1), 58-69.</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/research_image/research_3.png" class="img-responsive" width="33%" style="float: left" />
+  <p>AI-driven Vaccine Communicator——智能疫苗助理(2021-2025)</p>
   <p><strong><a href="https://www.public.polyu-aivac.com/">Project website</a></strong></p>
  </div>
 </div>
